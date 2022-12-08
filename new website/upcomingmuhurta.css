@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  font-family: monsterrat;
+  background-image: url('website\ background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*  */
+/*  */
+h{
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+    margin: 10px 630px;
+}
+h1{
+   font-size: 20px;
+    color: yellow;
+    margin: 30px 680px; 
+}
+h2{
+  font-size: 20px;
+    color: whitesmoke;
+    margin: 10px 550px; 
+}
+h3{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h4{
+  color: whitesmoke;
+  margin: 30px 550px; 
+}
+h5{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 690px; 
+}
+h6{
+  font-size: 20px;
+  color: whitesmoke;
+  margin: 30px 650px; 
+}
+h7{
+  font-size: 20px;
+   color: yellow;
+   margin:  30px 680px; 
+}
+h8{
+  color: whitesmoke;
+  margin: 60px 670px; 
+}
+h9{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h10{
+  color: whitesmoke;
+  margin: 30px 470px; 
+}
+h11{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h12{
+  color: whitesmoke;
+  margin: 30px 550px; 
+}
+h13{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h14{
+  color: whitesmoke;
+  margin: 30px 670px; 
+}
+h15{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h16{
+  color: whitesmoke;
+  margin: 30px 550px; 
+}
+h17{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h18{
+  color: whitesmoke;
+  margin: 30px 670px; 
+}
+h19{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h20{
+  color: whitesmoke;
+  margin: 30px 670px; 
+}
+h21{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h22{
+  color: whitesmoke;
+  margin: 30px 600px; 
+}
+h23{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 680px; 
+}
+h24{
+  color: whitesmoke;
+  margin: 30px 550px; 
+}
+@media (max-width: 600px){
+  h{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin: 10px 100px;
+}
+h1{
+   font-size: 20px;
+    color: yellow;
+    margin: 10px 130px; 
+}
+h2{
+  font-size: 10px;
+    color: whitesmoke;
+    margin: -10px 100px; 
+}
+h3{
+  font-size: 20px;
+   color: yellow;
+   margin: 10px 130px; 
+}
+h4{
+  color: whitesmoke;
+  margin: 5px 100px; 
+}
+h5{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h6{
+  font-size: 20px;
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h7{
+  font-size: 20px;
+   color: yellow;
+   margin:  30px 130px; 
+}
+h8{
+  color: whitesmoke;
+  margin: 60px 100px; 
+}
+h9{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h10{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h11{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h12{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h13{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h14{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h15{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h16{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h17{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h18{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h19{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h20{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h21{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h22{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+h23{
+  font-size: 20px;
+   color: yellow;
+   margin: 30px 130px; 
+}
+h24{
+  color: whitesmoke;
+  margin: 30px 100px; 
+}
+}

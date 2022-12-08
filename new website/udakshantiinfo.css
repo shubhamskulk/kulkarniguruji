@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  
+}
+body{
+    font-family: monsterrat;
+    background-image: url('udakshantibackgroung.jpg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+  }
+  
+ /* body {
+    font-family: Arial;
+    margin: 0;
+  }  */
+  /*  */
+  
+  
+  /*  */
+img{
+    margin: 70px  540px;
+    height: 250px;
+    width: 250px;
+}
+h{
+    font-size: 50px;
+    margin: 260px;
+    font-weight: bold;
+}
+p{
+    margin: 55px;
+    font-size: 15px;
+}
+p1{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 55px;
+}
+p2{
+margin: 55px;
+}
+p3{
+    margin: 55px;
+    }
+    p4{
+        margin: 55px;
+        }
+        p5{
+            margin: 55px;
+            }
+@media screen and (max-width: 970px) {
+    img{
+        margin: 40px 70px;
+    height: 200px;
+    width: 200px;
+    }
+    h{
+        font-size: 18px;
+        margin: 20px;
+        font-weight: bold;
+    }
+    p{
+        margin: 12px;
+        font-size: 10px;
+    }
+    p2{
+        margin: 13px;
+        font-size: 10px;
+        }
+        p3{
+            margin: 13px;
+            font-size: 10px;
+            }
+            p4{
+                margin: 13px;
+                font-size: 10px;
+                }
+                p5{
+                    margin: 13px;
+                    font-size: 10px;
+                    }
+        
+    
+    
+}

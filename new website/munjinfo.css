@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+} 
+/* body{
+    font-family: monsterrat;
+    background-image: url('munj.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+h{
+    font-size: 20px;
+    margin:  70px 300px;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+    margin: 70px 300px;
+}
+p2{
+    font-size: 20px;
+    margin:  20px ;
+    font-weight: bold;
+
+}
+p13{
+    font-size: 25px;
+    margin: 60px;
+    font-weight: bold;
+
+
+p11{
+    margin: 90px;
+    font-size: 20px;
+
+}
+p3{
+    font-size: 20px;
+    margin: 50px;
+}
+p4{
+    margin: 20px;
+    font-size: 20px;
+}
+p5{
+    
+    font-size: 25px;
+    margin:  20px 60px;
+    font-weight: bold;
+}
+p6{
+   
+    margin: 25px;
+    font-size: 20px; 
+}

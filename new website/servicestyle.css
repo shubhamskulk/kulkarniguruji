@@ -1,0 +1,590 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+} 
+body{
+    font-family: monsterrat;
+    background-image: url('website\ background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+nav{
+    height: 80px;
+    width: 100%;
+    background: red;    
+}
+label.logo{
+    font-size: 35px;
+    font-weight: bold;
+    color:white;
+    padding: 0 100px;
+    line-height: 80px;   
+    margin: 10px -35px; 
+    font-size: ui-monospace;
+    font-family:cursive;
+}
+nav ul{
+    float:right;
+    margin-right: 40px;
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+nav a {
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    border: 1px solid transperent;
+    padding: 7px 10px;
+    border-radius: 3px;
+}
+a.active,a:hover{
+    border: 1px solid white;
+    transition: .5s;
+    background: tomato;
+    border-radius: 20px;
+}
+nav #icon{
+color: whitesmoke;
+font-size: 30px;
+line-height: 80px;
+float: right;
+margin-right: 40px;
+cursor: pointer;
+display: none;
+} 
+.container{
+    color: whitesmoke;
+    font-size: 12px;
+
+}
+img {
+  display: block;
+  height: 300px;
+  width: 300px;
+/* margin-left: auto;
+margin-right: auto; */
+margin: 20px 550px;
+}
+.whatsapp{
+    margin: 90px;
+}
+p1{ 
+    color: whitesmoke;
+    font-weight: bold;
+ font-size: 30px;
+ margin: 5px 630px;
+}
+.btn {
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 15px 620px;
+    border-radius: 15px;
+}
+vivah{
+    display: block;
+  height: 300px;
+  width: 300px;
+margin-left: auto;
+margin-right: auto;
+margin: 5px 10px;
+
+}
+p2{
+    color: whitesmoke;
+    font-weight: bold;
+ font-size: 30px;
+ margin: 20px 630px;
+}
+
+.btn1{
+
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 15px 620px;
+    border-radius: 15px;
+}
+satyanarayan{
+    display: block;
+  height: 300px;
+  width: 300px;
+margin-left: auto;
+margin-right: auto;
+margin: 5px 10px;
+
+}
+p3{
+    color: whitesmoke;
+    font-weight: bold;
+ font-size: 30px;
+ margin: 20px 630px;
+}
+
+.btn2{
+
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 15px 620px;
+    border-radius: 15px;
+}
+nakshatra{
+    display: block;
+  height: 300px;
+  width: 300px;
+margin-left: auto;
+margin-right: auto;
+margin: 5px 10px;
+
+}
+p4{
+    color: whitesmoke;
+    font-weight: bold;
+ font-size: 30px;
+ margin: 20px 630px;
+}
+
+.btn3{
+
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 15px 620px;
+    border-radius: 15px;
+}
+udakshanti{
+        display: block;
+      height: 300px;
+      width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5px 10px;
+    
+    }
+    p5{
+        color: whitesmoke;
+        font-weight: bold;
+     font-size: 30px;
+     margin: 20px 630px;
+    }
+    
+    .btn4{
+    
+        background-color: tomato;
+        border: none;
+        color: white;
+        padding: 12px 30px;
+        cursor: pointer;
+        font-size: 20px;
+        margin: 15px 620px;
+        border-radius: 15px;
+    }
+    munj{
+        display: block;
+      height: 300px;
+      width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5px 10px;
+    
+    }
+    p6{
+        color: whitesmoke;
+        font-weight: bold;
+     font-size: 30px;
+     margin: 20px 670px;
+    }
+    
+    .btn5{
+    
+        background-color: tomato;
+        border: none;
+        color: white;
+        padding: 12px 30px;
+        cursor: pointer;
+        font-size: 20px;
+        margin: 15px 620px;
+        border-radius: 15px;
+ 
+}
+/* .footer{
+    color: white;
+    background-color: tomato;
+    
+}
+.contact{
+    color: whitesmoke;
+    margin: 40px;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.content{
+    font-size: 18px;
+margin:-110px 40px;
+padding: 30px;
+color: black;
+font-weight: bold;
+}
+.details{
+    font-size: 13px;
+    margin: 80px 40px;
+    padding: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.services{
+   
+    font-size: 20px;
+    margin:  -100px 40px; 
+    
+    padding: 20px;
+    color: whitesmoke;
+    font-weight: bold;
+    /* background-color: tomato;  */
+.container
+{
+   max-width: 1170px; 
+   margin: auto;
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer
+{
+        background-color: #24262b;
+        line-height: 1.5;
+        font-family: 'poppins',sans-serif;
+        padding: 70px 0;
+        box-sizing: border-box;
+}
+.footer-col
+{
+     width: 25%;
+     padding: 0 15px;
+}
+.footer-col h9{
+    font-size: 22px;
+    color: white;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    position: relative;
+}
+.footer-col h9::before{
+content:'';
+position: absolute;
+left: 0;
+bottom: -10px;
+background-color: blue;
+height: 2px;
+box-sizing: border-box;
+width: 90px;
+}
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+    margin-top: 18px;
+}
+.footer-col ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-weight: 300;
+    color: #bbbbbb;
+    display: black;
+}
+.footer-col ul li a:hover{
+    color: #ffffff;
+    padding-left: 10px;
+    text-decoration: none;
+    list-style: none;
+}
+.footer-col h10{
+    font-size: 22px;
+    color: white;
+    text-transform: capitalize;
+    /* margin-bottom: 35px; */
+    font-weight: 500;
+    position: relative;
+}
+.footer-col h10::before{
+    content:'';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: blue;
+    height: 2px;
+    box-sizing: border-box;
+    width: 90px;
+}
+    
+.footer-col .social-links a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255,255,2555,0.2);
+    margin: 15px 10px 10px 0;
+    /* margin:  10px -50px 0px 900px; */
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+
+}
+.footer-col .social-links a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+}
+
+
+
+@media (max-width: 1048px){
+   label.logo{
+    font-size: 32px;
+    padding-left: 60px;
+}
+nav ul{
+    margin-right: 20px;
+}
+nav a {
+    font-size: 17px;
+  }
+}
+@media (max-width: 900px){
+    nav #icon{
+        display: block;
+    }
+       nav ul{
+           position: fixed;
+           width: 100%;
+           height: 100vh;
+           background-image: url("website\ background.jpg");
+           top: 80px;
+           left: -100%;
+           text-align: center;
+           transition: all .5s;
+       }
+       nav li{
+           display: block;
+           margin: 50px 0;
+           line-height: 30px;     
+        }
+        nav a{
+            font-size: 20px;
+        }
+        a.active,a:hover{
+            border: none;
+            color: tomato;
+        }
+        nav ul.show{
+            left: 0;
+        }
+        .footer-col{
+            width: 50%;
+            margin-bottom: 30px;
+
+        }
+        
+        
+}
+@media (max-width: 400px){
+    nav #icon{
+        display: block;
+    }
+       nav ul{
+           position: fixed;
+           width: 100%;
+           height: 100vh;
+           background-image: url("website\ background.jpg");
+           top: 80px;
+           left: -100%;
+           text-align: center;
+           transition: all .5s;
+       }
+       nav li{
+           display: block;
+           margin: 50px 0;
+           line-height: 30px;     
+        }
+        nav a{
+            font-size: 20px;
+        }
+        a.active,a:hover{
+            border: none;
+            color: tomato;
+        }
+        nav ul.show{
+            left: 0;
+        }
+        .container{
+            font-size: 10px;
+        }
+        
+        img{
+            width: 150px;
+            height: 150px;
+            margin: 10px 130px;
+        }
+        p1{
+            font-size: 20px;
+            margin:10px 160px;
+            color: whitesmoke;
+        }
+        .btn{
+            margin: 10px 140px;
+            cursor: pointer;
+            font-size: 15px;
+            border-radius: 15px;
+        
+        }.btn:hover{
+           background-color: red;
+        }
+        vivah{
+            width: 150px;
+            height: 150px;
+            margin: 10px -10px;
+        }
+        p2{
+                font-size: 20px;
+                margin:10px 160px;
+                color: whitesmoke;
+        }
+        
+        .btn1{
+            margin: 10px 140px;
+            cursor: pointer;
+            font-size: 15px;
+            border-radius: 15px;
+        }
+        satyanarayan{
+            display: block;
+          height: 300px;
+          width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 5px 10px;
+        
+        }
+        p3{
+            color: whitesmoke;
+            font-weight: bold;
+         font-size: 20px;
+         margin: 10px 155px;
+        }
+        
+        .btn2{
+        
+            margin: 10px 140px;
+            cursor: pointer;
+            font-size: 15px;
+            border-radius: 15px;
+        }
+        nakshatra{
+            /* display: block; */
+          height: 300px;
+          width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 5px 10px;
+        
+        }
+        p4{
+            color: whitesmoke;
+            font-weight: bold;
+         font-size: 20px;
+         margin: 10px 155px;
+        }
+        
+        .btn3{
+             margin: 10px 140px;
+            cursor: pointer;
+            font-size: 15px;
+            border-radius: 15px;
+        }
+        
+            
+        udakshanti{
+                display: block;
+              height: 300px;
+              width: 300px;
+            margin-left: auto;
+            margin-right: auto;
+            margin: 5px 10px;
+            
+            }
+            p5{
+                color: whitesmoke;
+                font-weight: bold;
+             font-size: 20px;
+             margin: 10px 155px;
+            }
+            
+            .btn4{
+                
+             margin: 10px 140px;
+             cursor: pointer;
+             font-size: 15px;
+             border-radius: 15px;
+         }
+            
+                
+            munj{
+                display: block;
+              height: 300px;
+              width: 300px;
+            margin-left: auto;
+            margin-right: auto;
+            margin: 5px 10px;
+            
+            }
+            p6{
+                color: whitesmoke;
+                font-weight: bold;
+             font-size: 20px;
+             margin: 10px 190px;
+            }
+            
+            .btn5{
+            
+                margin: 10px 140px;
+                cursor: pointer;
+                font-size: 15px;
+                border-radius: 15px;
+            }
+            .footer-col{
+                width: 100%;
+
+            }
+            .footer-col .social-links a:hover{
+                color: #24262b;
+                background-color: #ffffff;
+            }
+        }
+            
